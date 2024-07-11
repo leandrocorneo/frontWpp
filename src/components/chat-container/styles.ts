@@ -74,6 +74,7 @@ export const UserContainerMessageRight = styled.div`
     box-sizing: border-box;
     padding: 0 20px;
     margin: 2px 0;
+    z-index: 3;
 `;
 
 export const UserContainerMessageLeft = styled.div`
